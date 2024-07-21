@@ -12,4 +12,4 @@
 ![Docker](/svg/docker.svg)
 
 ## Контакты
-[<img src="./svg/telegram.svg">](https://t.me/Durov109)
+[<img src="./svg/telegram.svg">](https://t.me/DV109)
