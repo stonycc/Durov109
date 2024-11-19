@@ -1,7 +1,7 @@
-### Приветствую всех! Дмитрий Ш. Python разработчик, бэкэнд-программист. 
+### Приветствую всех! Дмитрий Ш. разработчик/программист. 
 
 Стек технологий:
-**Python, Django, Git, SQLite, PostgresSQL, Docker**
+**C#, .NET, Python, Django, Git, SQLite, PostgresSQL, Docker**
 
 ## Основной стек технологий
 ![Python](/svg/python.svg)
